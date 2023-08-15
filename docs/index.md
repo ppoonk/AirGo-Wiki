@@ -6,7 +6,7 @@ hero:
   text: 欢迎使用
   tagline: 遇到问题请及时联系我们
   image:
-    src: /public/airgo-logo.png
+    src: /airgo-logo.png
     alt: 网站的 logo 图片
   actions:
     - theme: brand
