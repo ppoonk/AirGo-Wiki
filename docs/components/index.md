@@ -3,7 +3,7 @@
 #### 1.下载
 [KWGT下载](https://www.123pan.com/s/oIT9-qhyxH.html)
 
-[AirGo插件下载](https://www.123pan.com/s/oIT9-qhyxH.html)
+[AirGo插件下载](https://www.123pan.com/s/oIT9-hHyxH.html)
 
 #### 2.安装
 安装KWGT，在桌面添加Kustom Widget，先选择4x4尺寸，在步骤4添加插件后可自行调整大小

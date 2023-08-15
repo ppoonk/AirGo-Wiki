@@ -1,7 +1,11 @@
 export default {
+    //其他全局配置信息
+    title: 'AirGo',
+    description: 'AirGo',
+    // outDir: '../dist',
     themeConfig: {
         // logo: '/test.jpg',
-
+        siteTitle: 'AirGo',
         footer: {
             message: '所有内容仅用于技术交流，一切后果与作者无关',
             copyright: 'Copyright © AirGo'
@@ -39,8 +43,4 @@ export default {
         },
         docFooter: { prev: '上一篇', next: '下一篇' },
     },
-    //其他全局配置信息
-    title: 'AirGo',
-    description: 'AirGo',
-    // outDir: '../dist'
 }
