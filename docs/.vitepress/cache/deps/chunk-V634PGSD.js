@@ -4338,7 +4338,7 @@ var PublicInstanceProxyHandlers = {
       }
       return publicGetter(instance);
     } else if (
-      // css config (injected by vue-loader)
+      // css module (injected by vue-loader)
       (cssModule = type.__cssModules) && (cssModule = cssModule[key])
     ) {
       return cssModule;

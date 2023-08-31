@@ -1,9 +1,12 @@
-### 流量监控小组件
+### 流量监控小组件---支持联通电信
+![home](/public/home.jpeg)
+
 ---
 #### 1.下载
+
 [KWGT下载](https://www.123pan.com/s/oIT9-qhyxH.html)
 
-[AirGo插件下载](https://www.123pan.com/s/oIT9-hHyxH.html)
+[AirGo插件下载---<font color=red>更新时间：2023-08-31</font>](https://www.123pan.com/s/oIT9-QxyxH.html)
 
 #### 2.安装
 安装KWGT，在桌面添加Kustom Widget，先选择4x4尺寸，在步骤4添加插件后可自行调整大小
@@ -22,7 +25,7 @@
 点击-全局变量-url
 ![kwgt1](/public/kwgt4.jpg)
 
-在公式编辑器里粘贴上面复制的url，保存！！！！
+在公式编辑器里粘贴上面复制的url，<font color=red>点击右上角对号保存！然后再点击右上角保存按钮再次保存！</font>
 ![kwgt1](/public/kwgt5.jpg)
 
 然后回到桌面，点击一次手动刷新按钮，等待一会，看是否刷新出流量使用详情
